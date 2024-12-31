@@ -8,7 +8,7 @@
  <p>
   
 My journey started in marketing and evolved through communications and digital marketing before finding my passion for software engineering.
-A self-starter, I run a small freelance business offering digital marketing services for clients in guest experience, finance, and SaaS. I've now expanded my scope of services to include web development by to blending my marketing expertise with my technical skills to deliver user-centric results.
+A self-starter, I run a small freelance business offering digital marketing services for clients in guest experience, finance, and SaaS. I've now expanded my scope of services to include web development, blending my digital marketing expertise with my technical skills to deliver user-centric results.
 
 I’m passionate about creating simple, intuitive designs and programs, and I enjoy working with others where we can share laughs and ideas. When I’m not coding or learning something new, you can find me enjoying the outdoors, camping, reading, or traveling. 
 
