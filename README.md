@@ -38,7 +38,7 @@ Hardworking yet grounded, I value the simple joys in life while maintaining an u
   <h3>🌟 Featured Projects</h3>
   <ul>
     <li>
-      <a href="https://github.com/sbabaki/JourneyLog" target="_blank"><strong>JourneyLog SPA</strong></a>: A responsive travel mapping app using React and Node.js.
+      <a href="https://github.com/sbabaki/JourneyLog" target="_blank"><strong>JourneyLog SPA</strong></a>: A responsive travel mapping app built with React, styled with Sass, and featuring dynamic data rendering using Node.js, Express.js, and Leaflet.js.
     </li>
     <li>
       <a href="https://github.com/sbabaki/MetaScamAlerter" target="_blank"><strong>Meta Scam Alerter</strong></a>: 🏆<b>Meta Hackathon Winner</b>🏆 Accessible scam detection tool.
